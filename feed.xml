@@ -4,10 +4,17 @@
     <title>Rust Embedded &amp; Microcontrollers Hub</title>
     <link>https://rust-embedded-microcontrollers-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 21 Sep 2026 06:06:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 06:06:05 GMT</lastBuildDate>
     <atom:link href="https://rust-embedded-microcontrollers-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                    <item>
+                        <item>
+      <title>📅 Today's Fresh Pick: r/LocalLLaMA Open Models (Reddit)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/rust-embedded-microcontrollers-hub/#rust-embedded-microcontrollers-hub-reddit-20260922-1-2026-09-22</guid>
+      <pubDate>Tue, 22 Sep 2026 06:06:05 GMT</pubDate>
+      <description>Newly verified community added to Rust Embedded &amp; Microcontrollers Hub: Leading community for running open weights LLMs locally, quantization (GGUF/AWQ), fine-tuning, and hardware benchmarks.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/MachineLearning Research (Reddit)</title>
       <link>https://www.reddit.com/r/MachineLearning/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/rust-embedded-microcontrollers-hub/#rust-embedded-microcontrollers-hub-reddit-20260921-1-2026-09-21</guid>
