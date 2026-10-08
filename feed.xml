@@ -4,10 +4,17 @@
     <title>Rust Embedded &amp; Microcontrollers Hub</title>
     <link>https://rust-embedded-microcontrollers-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 06 Oct 2026 06:07:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 06:06:50 GMT</lastBuildDate>
     <atom:link href="https://rust-embedded-microcontrollers-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                    <item>
+                                                                        <item>
+      <title>📅 Today's Fresh Pick: LangChain Official Discord (Discord)</title>
+      <link>https://github.com/langchain-ai/langchain/discussions</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/rust-embedded-microcontrollers-hub/#rust-embedded-microcontrollers-hub-discord-20261008-1-2026-10-08</guid>
+      <pubDate>Thu, 08 Oct 2026 06:06:50 GMT</pubDate>
+      <description>Newly verified community added to Rust Embedded &amp; Microcontrollers Hub: Community dedicated to building LLM applications with LangChain, LangSmith, and LangGraph agent architectures.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Anthropic Claude Discord (Discord)</title>
       <link>https://discord.gg/anthropic</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/rust-embedded-microcontrollers-hub/#rust-embedded-microcontrollers-hub-discord-20261006-1-2026-10-06</guid>
