@@ -4,10 +4,17 @@
     <title>Rust Embedded &amp; Microcontrollers Hub</title>
     <link>https://rust-embedded-microcontrollers-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 17 Oct 2026 06:06:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 06:06:25 GMT</lastBuildDate>
     <atom:link href="https://rust-embedded-microcontrollers-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                    <item>
+                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Hack The Box Official Discord (Discord)</title>
+      <link>https://discord.gg/hackthebox</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/rust-embedded-microcontrollers-hub/#rust-embedded-microcontrollers-hub-discord-20261018-1-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 06:06:25 GMT</pubDate>
+      <description>Newly verified community added to Rust Embedded &amp; Microcontrollers Hub: Official community for Hack The Box users tackling active CTF machines, forensic challenges, and Academy modules.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/bugbounty Hunters (Reddit)</title>
       <link>https://www.reddit.com/r/bugbounty/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/rust-embedded-microcontrollers-hub/#rust-embedded-microcontrollers-hub-reddit-20261017-1-2026-10-17</guid>
@@ -174,12 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/rust-embedded-microcontrollers-hub/#rust-embedded-microcontrollers-hub-telegram-20260918-1-2026-09-18</guid>
       <pubDate>Fri, 18 Sep 2026 06:19:58 GMT</pubDate>
       <description>Newly verified community added to Rust Embedded &amp; Microcontrollers Hub: Aggregated daily articles on site reliability engineering, observability stacks, and infrastructure automation.</description>
-    </item>
-<item>
-      <title>Rust Embedded &amp; Microcontrollers Hub Initial Release</title>
-      <link>https://rust-embedded-microcontrollers-hub.vercel.app/</link>
-      <pubDate>Wed, 16 Sep 2026 09:49:55 GMT</pubDate>
-      <description>Initial collection of verified communities published.</description>
     </item>
   </channel>
 </rss>
