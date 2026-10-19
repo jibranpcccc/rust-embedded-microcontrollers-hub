@@ -4,10 +4,17 @@
     <title>Rust Embedded &amp; Microcontrollers Hub</title>
     <link>https://rust-embedded-microcontrollers-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 18 Oct 2026 06:06:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 06:06:27 GMT</lastBuildDate>
     <atom:link href="https://rust-embedded-microcontrollers-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                        <item>
+                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: TryHackMe Official Discord (Discord)</title>
+      <link>https://discord.gg/tryhackme</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/rust-embedded-microcontrollers-hub/#rust-embedded-microcontrollers-hub-discord-20261019-1-2026-10-19</guid>
+      <pubDate>Mon, 19 Oct 2026 06:06:27 GMT</pubDate>
+      <description>Newly verified community added to Rust Embedded &amp; Microcontrollers Hub: Beginner and intermediate hands-on cybersecurity learning platform with active study groups and walkthrough support.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hack The Box Official Discord (Discord)</title>
       <link>https://discord.gg/hackthebox</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/rust-embedded-microcontrollers-hub/#rust-embedded-microcontrollers-hub-discord-20261018-1-2026-10-18</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/rust-embedded-microcontrollers-hub/#rust-embedded-microcontrollers-hub-telegram-20260919-1-2026-09-19</guid>
       <pubDate>Sat, 19 Sep 2026 06:06:00 GMT</pubDate>
       <description>Newly verified community added to Rust Embedded &amp; Microcontrollers Hub: Updates on CNCF graduated projects, Envoy, Cilium, OpenTelemetry, and container security.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: DevOps &amp; SRE News Channel (Telegram)</title>
-      <link>https://t.me/devops_channel</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/rust-embedded-microcontrollers-hub/#rust-embedded-microcontrollers-hub-telegram-20260918-1-2026-09-18</guid>
-      <pubDate>Fri, 18 Sep 2026 06:19:58 GMT</pubDate>
-      <description>Newly verified community added to Rust Embedded &amp; Microcontrollers Hub: Aggregated daily articles on site reliability engineering, observability stacks, and infrastructure automation.</description>
     </item>
   </channel>
 </rss>
