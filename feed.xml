@@ -4,10 +4,17 @@
     <title>Rust Embedded &amp; Microcontrollers Hub</title>
     <link>https://rust-embedded-microcontrollers-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 22 Oct 2026 06:06:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:07:26 GMT</lastBuildDate>
     <atom:link href="https://rust-embedded-microcontrollers-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                        <item>
+                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Hack The Box Community Forum (Forum)</title>
+      <link>https://forum.hackthebox.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/rust-embedded-microcontrollers-hub/#rust-embedded-microcontrollers-hub-forum-20261023-1-2026-10-23</guid>
+      <pubDate>Fri, 23 Oct 2026 06:07:26 GMT</pubDate>
+      <description>Newly verified community added to Rust Embedded &amp; Microcontrollers Hub: Vibrant discussion boards for hints on retired machines, certification advice, and offensive tooling.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: 0x00sec Hacking Community (Forum)</title>
       <link>https://0x00sec.org</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/rust-embedded-microcontrollers-hub/#rust-embedded-microcontrollers-hub-forum-20261022-1-2026-10-22</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/rust-embedded-microcontrollers-hub/#rust-embedded-microcontrollers-hub-reddit-20260923-1-2026-09-23</guid>
       <pubDate>Wed, 23 Sep 2026 06:06:16 GMT</pubDate>
       <description>Newly verified community added to Rust Embedded &amp; Microcontrollers Hub: Vibrant discussion forum on OpenAI ChatGPT updates, prompt engineering strategies, custom GPTs, and creative workflows.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/LocalLLaMA Open Models (Reddit)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/rust-embedded-microcontrollers-hub/#rust-embedded-microcontrollers-hub-reddit-20260922-1-2026-09-22</guid>
-      <pubDate>Tue, 22 Sep 2026 06:06:05 GMT</pubDate>
-      <description>Newly verified community added to Rust Embedded &amp; Microcontrollers Hub: Leading community for running open weights LLMs locally, quantization (GGUF/AWQ), fine-tuning, and hardware benchmarks.</description>
     </item>
   </channel>
 </rss>
