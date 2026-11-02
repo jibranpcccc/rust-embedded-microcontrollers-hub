@@ -4,10 +4,17 @@
     <title>Rust Embedded &amp; Microcontrollers Hub</title>
     <link>https://rust-embedded-microcontrollers-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 01 Nov 2026 09:12:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 06:06:23 GMT</lastBuildDate>
     <atom:link href="https://rust-embedded-microcontrollers-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                        <item>
+                                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/rust-embedded-microcontrollers-hub/#rust-embedded-microcontrollers-hub-forum-20261101-1-2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 06:06:23 GMT</pubDate>
+      <description>Newly verified community added to Rust Embedded &amp; Microcontrollers Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/rust-embedded-microcontrollers-hub/#rust-embedded-microcontrollers-hub-forum-20261101-1-2026-11-01</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/rust-embedded-microcontrollers-hub/#rust-embedded-microcontrollers-hub-reddit-20261003-1-2026-10-03</guid>
       <pubDate>Sat, 03 Oct 2026 06:30:49 GMT</pubDate>
       <description>Newly verified community added to Rust Embedded &amp; Microcontrollers Hub: Systematic discussion of prompt architecture, few-shot conditioning, chain-of-thought methods, and agentic workflows.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Machine Learning Digest Channel (Telegram)</title>
-      <link>https://t.me/machinelearning_digest</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/rust-embedded-microcontrollers-hub/#rust-embedded-microcontrollers-hub-telegram-20261002-1-2026-10-02</guid>
-      <pubDate>Fri, 02 Oct 2026 06:06:51 GMT</pubDate>
-      <description>Newly verified community added to Rust Embedded &amp; Microcontrollers Hub: Daily curated breakdown of machine learning algorithms, deep learning implementations, and neural net research.</description>
     </item>
   </channel>
 </rss>
