@@ -4,10 +4,17 @@
     <title>Rust Embedded &amp; Microcontrollers Hub</title>
     <link>https://rust-embedded-microcontrollers-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 10 Nov 2026 06:07:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 06:06:28 GMT</lastBuildDate>
     <atom:link href="https://rust-embedded-microcontrollers-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                    <item>
+                                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/rust-embedded-microcontrollers-hub/#rust-embedded-microcontrollers-hub-forum-20261101-1-2026-11-11</guid>
+      <pubDate>Wed, 11 Nov 2026 06:06:28 GMT</pubDate>
+      <description>Newly verified community added to Rust Embedded &amp; Microcontrollers Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/rust-embedded-microcontrollers-hub/#rust-embedded-microcontrollers-hub-forum-20261101-1-2026-11-10</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/rust-embedded-microcontrollers-hub/#rust-embedded-microcontrollers-hub-reddit-20261013-1-2026-10-13</guid>
       <pubDate>Tue, 13 Oct 2026 06:06:35 GMT</pubDate>
       <description>Newly verified community added to Rust Embedded &amp; Microcontrollers Hub: Primary community for enterprise security analysts, blue teams, compliance frameworks, and threat intelligence.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Kaggle Data &amp; AI Discussions (Forum)</title>
-      <link>https://www.kaggle.com/discussion</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/rust-embedded-microcontrollers-hub/#rust-embedded-microcontrollers-hub-forum-20261011-1-2026-10-11</guid>
-      <pubDate>Sun, 11 Oct 2026 06:06:31 GMT</pubDate>
-      <description>Newly verified community added to Rust Embedded &amp; Microcontrollers Hub: Global competitions, notebook implementations, and deep-dive methodology discussions for ML practitioners.</description>
     </item>
   </channel>
 </rss>
