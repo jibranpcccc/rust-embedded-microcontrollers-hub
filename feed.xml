@@ -4,10 +4,17 @@
     <title>Rust Embedded &amp; Microcontrollers Hub</title>
     <link>https://rust-embedded-microcontrollers-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 22 Nov 2026 09:13:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:15:51 GMT</lastBuildDate>
     <atom:link href="https://rust-embedded-microcontrollers-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/rust Systems Programming (Reddit)</title>
+      <link>https://www.reddit.com/r/rust/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/rust-embedded-microcontrollers-hub/#rust-embedded-microcontrollers-hub-reddit-6-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 07:15:51 GMT</pubDate>
+      <description>Newly verified community added to Rust Embedded &amp; Microcontrollers Hub: Dedicated community for the Rust programming language focusing on memory safety, concurrency, and high-performance systems.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: The Programmer's Hangout (Discord)</title>
       <link>https://discord.gg/programming</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/rust-embedded-microcontrollers-hub/#rust-embedded-microcontrollers-hub-discord-5-2026-11-22</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/rust-embedded-microcontrollers-hub/#rust-embedded-microcontrollers-hub-github-20261024-1-2026-10-24</guid>
       <pubDate>Sat, 24 Oct 2026 06:06:28 GMT</pubDate>
       <description>Newly verified community added to Rust Embedded &amp; Microcontrollers Hub: Official community contributions and reviews on OWASP application security best practices.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Hack The Box Community Forum (Forum)</title>
-      <link>https://forum.hackthebox.com</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/rust-embedded-microcontrollers-hub/#rust-embedded-microcontrollers-hub-forum-20261023-1-2026-10-23</guid>
-      <pubDate>Fri, 23 Oct 2026 06:07:26 GMT</pubDate>
-      <description>Newly verified community added to Rust Embedded &amp; Microcontrollers Hub: Vibrant discussion boards for hints on retired machines, certification advice, and offensive tooling.</description>
     </item>
   </channel>
 </rss>
